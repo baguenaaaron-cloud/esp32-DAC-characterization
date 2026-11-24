@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pyqtgraph
+PyQt5
+pyvisa
+pyvisa-py
+pyusb
